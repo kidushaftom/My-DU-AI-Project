@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+data/owid-co2-data.csv
+cleaning.ipynb
+.gitignore
+
 # C extensions
 *.so
 
